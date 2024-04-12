@@ -1,0 +1,15 @@
+C:\Users\student\Desktop\examBrusov\bin\Debug\examBrusov.exe.config
+C:\Users\student\Desktop\examBrusov\bin\Debug\examBrusov.exe
+C:\Users\student\Desktop\examBrusov\bin\Debug\examBrusov.pdb
+C:\Users\student\Desktop\examBrusov\obj\Debug\examBrusov.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\examBrusov\obj\Debug\MainWindow.g.cs
+C:\Users\student\Desktop\examBrusov\obj\Debug\App.g.cs
+C:\Users\student\Desktop\examBrusov\obj\Debug\examBrusov_MarkupCompile.cache
+C:\Users\student\Desktop\examBrusov\obj\Debug\examBrusov_MarkupCompile.lref
+C:\Users\student\Desktop\examBrusov\obj\Debug\MainWindow.baml
+C:\Users\student\Desktop\examBrusov\obj\Debug\examBrusov.g.resources
+C:\Users\student\Desktop\examBrusov\obj\Debug\examBrusov.Properties.Resources.resources
+C:\Users\student\Desktop\examBrusov\obj\Debug\examBrusov.csproj.GenerateResource.cache
+C:\Users\student\Desktop\examBrusov\obj\Debug\examBrusov.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\examBrusov\obj\Debug\examBrusov.exe
+C:\Users\student\Desktop\examBrusov\obj\Debug\examBrusov.pdb
